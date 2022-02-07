@@ -1,11 +1,12 @@
 // ==UserScript==
 // @name           IITC plugin: Ornaments Layer Edit
 // @id             iitc-plugin-ornamentsLayerEdit
-// @version        0.0.1
+// @version        0.0.2
 // @category       Layer
 // @name           IITC plugin: Edited Oranments Layer (ap2,Scout)
 // @author         Gyeoul
 // @description    [2022-02-07-2252] 스카우트, ap2 레이어 분리 및 크기 조절 스크립트
+// @downloadURL    https://github.com/gyeoul/iitc-plugin-ornamentsLayerEdit/raw/main/IITC%20plugin%20:%20Ornaments%20Layer%20Edit.user.js
 // @match          https://intel.ingress.com/*
 // @grant          none
 // ==/UserScript==
